@@ -1,0 +1,26 @@
+_repo: The-Spoilers-of-the-Valley_29588
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, Robert
+    birthdate: 1882
+    deathdate: 1948
+    gutenberg_agent_id: '34012'
+    url: http://www.gutenberg.org/2009/agents/34012
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'British Columbia -- Fiction'
+title: The Spoilers of the Valley
+url: http://www.gutenberg.org/ebooks/29588
